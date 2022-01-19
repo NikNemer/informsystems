@@ -5,7 +5,7 @@ title: "Innovations Development and Implementation for the areas: Logistics,
 date: 2022-01-19T16:06:27.260Z
 permalink: /en/index.html
 eleventyNavigation:
-  key: Main
+  key: en
   order: 0
 ---
 # Welcome
