@@ -7,6 +7,6 @@ date: 2022-01-19T16:08:05.290Z
 permalink: /en/about.html
 eleventyNavigation:
   key: About Us
-  order: 1
+  order: 2
 ---
 About Us
