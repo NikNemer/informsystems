@@ -1,5 +1,5 @@
 <div id="sections">
-	{% for section in sectionslist | sort(sectionslist, data.order) %}
+	{% for section in sort(sectionslist, data.order) %}
  		<div class="section section{{ section.data.order }}">
 				<div>
 				{{ section.data.title }}
