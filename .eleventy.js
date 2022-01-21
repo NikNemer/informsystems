@@ -38,7 +38,7 @@ module.exports = function(eleventyConfig) {
   });
   
   eleventyConfig.addFilter("sortSectionByOrder", arr => {
-  arr.sort((a, b) => (a.order) > (b.order) ? 1 : -1);
+  arr.sort((a, b) => (a.data.order) > (b.data.order) ? 1 : -1);
   return arr;
 });
 
