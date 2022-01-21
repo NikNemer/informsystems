@@ -3,7 +3,7 @@
 	{% if section.data.language == "ru" %}
  		<div class="section section{{ section.data.order }}">
 				<div>
-				{{ section.data }}
+				{{ section.data | debug  }}
 				</div>
 		</div>
 	{% endif %}
