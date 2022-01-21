@@ -1,9 +1,12 @@
 <div id="sections">
 	{% for section in sectionslist | sortSectionByOrder %}
+	!
+	{% if section.data.language == "ru" %}
  		<div class="section section{{ section.data.order }}">
 				<div>
 				{{ section.data.title }}
 				</div>
 		</div>
+	{% endif %}
 	{% endfor %}
 </div>
