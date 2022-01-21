@@ -1,9 +1,9 @@
 <div id="sections">
-	{% for section in sectionslist %}
- 		<section class="section{{ section.data.order }}">
+	{% for section in sectionslist | sort(sectionslist, order) %}
+ 		<div class="section section{{ section.data.order }}">
 				<div>
 				{{ section.data.title }}
 				</div>
-		</section>
+		</div>
 	{% endfor %}
 </div>
