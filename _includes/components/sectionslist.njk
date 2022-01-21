@@ -2,9 +2,7 @@
 	{% for section in sectionslist | sortSectionByOrder %}
 	{% if section.data.language == "ru" %}
  		<div class="section section{{ section.data.order }}">
-				<div>
-				{{ section.templateContent | safe }}
-				</div>
+			{{ section.templateContent | safe }}
 		</div>
 	{% endif %}
 	{% endfor %}
