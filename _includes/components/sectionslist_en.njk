@@ -1,0 +1,9 @@
+<div id="sections">
+	{% for section in sectionslist | sortSectionByOrder %}
+	{% if section.data.language == "en" %}
+ 		<div class="section section{{ section.data.order }}">
+			{{ section.templateContent | safe }}
+		</div>
+	{% endif %}
+	{% endfor %}
+</div>
