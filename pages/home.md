@@ -8,6 +8,4 @@ eleventyNavigation:
   key: en
   order: 0
 ---
-# Welcome
-
 This is a template for building a simple website
