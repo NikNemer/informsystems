@@ -56,3 +56,7 @@ function initialize() {
 }
 google.maps.event.addDomListener(window, "load", initialize);
 </script>
+
+<script src="https://maps.googleapis.com/maps/api/js"></script>
+<script src="https://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerwithlabel/src/markerwithlabel.js"></script>
+<div id="map_canvas"></div>
