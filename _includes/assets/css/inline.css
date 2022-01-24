@@ -58,6 +58,7 @@ main > article :first-child {
 }
 
 .title-block .main-text {font-family: 'Raleway', sans-serif; text-transform: uppercase; font-size: 3em; letter-spacing: 2.5px; line-height: 1.09;}
+.title-block.center {align-items: center;}
 
 pre {
 	font-size: 14px;
