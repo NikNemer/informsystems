@@ -35,4 +35,4 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Language", name: "language", widget: "string", default: "en" }
       - { label: "Order", name: "order", widget: "number", default: 0 }
-      - { label: "Body", name: "body", widget: "richtext" }
+      - { label: "Body", name: "body", widget: "markdown" }
