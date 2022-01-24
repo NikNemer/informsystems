@@ -4,6 +4,6 @@ language: en
 order: 1
 ---
 <p class="content-wrapper">
-<p class="core-title"></p>
-<p class="core-text"></p>
+<p class="core-title">Test</p>
+<p class="core-text">Test2</p>
 </p>
