@@ -61,7 +61,7 @@ main > article :first-child {
 .title-block .main-text {margin: 1.5em 0; padding: 0 1.5em; font-family: 'Raleway', sans-serif; text-transform: uppercase; font-size: 3em; letter-spacing: 2.5px; 
 	}
 .title-block.center {align-items: center; text-align:center;}
-.section1 .conent-block { background-color:#2982E1;padding: 1em 1em;color:#FFFFFF;}
+.section1 .content-block { background-color:#2982E1;padding: 1em 1em;color:#FFFFFF;}
 
 pre {
 	font-size: 14px;
