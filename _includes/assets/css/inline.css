@@ -4,6 +4,8 @@
 	--background: #FFF0EB;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
+
 *, *:before, *:after {
   box-sizing: border-box;
 }
@@ -57,7 +59,7 @@ main > article :first-child {
 	margin-top: 0;
 }
 
-.title-block .main-text {text-transform: uppercase; font-size: 2em; letter-spacing: 2.5px; line-height: 1.09;}
+.title-block .main-text {font-family: 'Raleway', sans-serif; text-transform: uppercase; font-size: 2em; letter-spacing: 2.5px; line-height: 1.09;}
 
 pre {
 	font-size: 14px;
