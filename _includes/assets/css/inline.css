@@ -64,6 +64,15 @@ main > article :first-child {
 .section1 .content-block { background-color:#2982E1;padding: 1em 1em;color:#FFFFFF;}
 .section5 { height:400px;}
 
+#map_canvas {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px
+}
+
+.map-label { text-shadow: -1px -1px 0 #ffffff,1px -1px 0 #ffffff,-1px 1px 0 #ffffff,1px 1px 0 #ffffff; font-weight:bold; }
+
 pre {
 	font-size: 14px;
 	direction: ltr;
