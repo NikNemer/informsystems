@@ -183,6 +183,8 @@ button {
 	cursor: pointer;
 }
 
+.tittle-block {text-transform: uppercase; font-size: 2em; letter-spacing: 2.5px; line-height: 1.09;}
+
 @media screen and (min-width:768px) {
 	:root {
 		font-size: 1.1rem;
