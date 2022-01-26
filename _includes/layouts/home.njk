@@ -3,8 +3,12 @@ layout: layouts/base.njk
 section: home
 ---
 <div id="section_main">
+<div id="page-wrapper">
+<div id="page-background">
 <h1>{{ title }}!</h1>
 {{ layoutContent | safe }}
+</div>
+</div>
 </div>
 
 {% set sectionslist = collections.sections %}
