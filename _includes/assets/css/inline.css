@@ -103,9 +103,9 @@ header {
 .center {align-items: center; text-align:center;}
 .section {padding-bottom:3em;}
 .section0 {padding:3em 1.5em;}
-.section0 .content-wrapper {}
-.section0 .content-wrapper .core-title {font-family: 'Raleway', sans-serif; text-transform: none; font-size: 1.25em;color:#666;margin: 0 auto; max-width:1000px;}
-.section0 .content-wrapper .core-text {margin: 0 auto; max-width:1000px;font-size: 1.25em;}
+.section0 .content-wrapper {border-left: 2px solid #e8194d;max-width:1200px;margin: 0 auto;}
+.section0 .content-wrapper .core-title {/* font-family: 'Raleway', sans-serif; */ font-weight:bold; text-transform: none; font-size: 1.25em;color:#888;padding:0 0 15px 0;}
+.section0 .content-wrapper .core-text {margin: 0 auto; font-size: 1.15em;}
 .section1 .content-block { background-color:#2982E1;padding: 1em 1em;color:#FFFFFF;}
 .section h2, .section.content-block { padding: 1.5em; margin:0; }
 .section4 { text-align: center; }
