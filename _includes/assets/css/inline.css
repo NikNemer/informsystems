@@ -62,7 +62,8 @@ main > article :first-child {
 	}
 .title-block.center {align-items: center; text-align:center;}
 .section1 .content-block { background-color:#2982E1;padding: 1em 1em;color:#FFFFFF;}
-.section4 .content-block { background-color:#F6F6F6;}
+.section4 { text-align: center; }
+.section4 .content-block { background-color:#FFF;}
 .section5 { height:400px;}
 
 #map_canvas {
