@@ -8,4 +8,5 @@ eleventyNavigation:
   key: en
   order: 0
 ---
-This is a template for building a simple website
+<div id="main-h2">Innovations Development and Implementation for the areas:</div>
+<div id="main-h1">Logistics, Retail and Agrofood</div>
