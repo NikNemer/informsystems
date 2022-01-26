@@ -72,15 +72,9 @@ main > article :first-child {
 .section h2, .section.content-block { padding: 0 1.5em;}
 .section4 { text-align: center; }
 .section4 .content-block { background-color:#FFF;}
-.section5 { height:400px;}
+.section5 { background-color:#F6F6F6; }
+.section5 .map-block { height:400px; }
 .pics-block .pic {display: inline-block;width:180px;padding: 0 15px;}
-
-#map_canvas {
-  height: 100%;
-  width: 100%;
-  margin: 0px;
-  padding: 0px
-}
 
 .map-label { text-shadow: -1px -1px 0 #ffffff,1px -1px 0 #ffffff,-1px 1px 0 #ffffff,1px 1px 0 #ffffff; font-weight:bold; }
 
