@@ -24,11 +24,11 @@ order: 4
 </div>
 <h3>DevOps</h3>
 <div class="pics-block">
-<div class="pic"><img src="/static/img/python-logo.png" width=180 height=120></div>
-<div class="pic"><img src="/static/img/mongodblogo.png" width=180 height=120></div>
-<div class="pic"><img src="/static/img/javalogo.png" width=180 height=120></div>
-<div class="pic"><img src="/static/img/restapilogo.png" width=180 height=120></div>
-<div class="pic"><img src="/static/img/nodejslogo.png" width=180 height=120></div>
+<div class="pic"><img src="/static/img/kubernetes-logo.png" width=180 height=120></div>
+<div class="pic"><img src="/static/img/rancherlogo.png" width=180 height=120></div>
+<div class="pic"><img src="/static/img/jetbrains-teamcity-logo.png" width=180 height=120></div>
+<div class="pic"><img src="/static/img/logo-jenkins.png" width=180 height=120></div>
+<div class="pic"><img src="/static/img/awslogo.png" width=180 height=120></div>
 </div>
 
 </div>
