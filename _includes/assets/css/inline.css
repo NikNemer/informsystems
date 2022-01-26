@@ -78,7 +78,7 @@ main > article :first-child {
     color: #a1e74b;
 }
 .page-wrapper {position: relative;}
-.page-wrapper .page-background {
+.page-wrapper .page-background { line-height:1.5em; padding:2em 0;
     }
 .line-block {width:50%; height:1px; background-color:#CCC;margin: 5px auto 5px auto !important;}
 .top15em {margin-top:1.5em !important;}
