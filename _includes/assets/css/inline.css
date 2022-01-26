@@ -119,6 +119,9 @@ header {
 .inline .serv a:hover {border-bottom: 2px solid #e8194d;text-decoration: none;}
 #logo {padding-top: 20px;}
 
+.serv .serv-title {font-family: 'Raleway', sans-serif; text-transform: none; font-size: 1.15em;}
+.serv .serv-text {font-size: 1.15em;}
+
 .map-label { text-shadow: -1px -1px 0 #ffffff,1px -1px 0 #ffffff,-1px 1px 0 #ffffff,1px 1px 0 #ffffff; font-weight:bold; }
 
 pre {
