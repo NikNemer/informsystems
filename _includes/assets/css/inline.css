@@ -109,6 +109,7 @@ header {
 .section5 { background-color:#F6F6F6;padding-bottom:0 !important; }
 .section5 .map-block { height:400px; }
 .pics-block .pic {display: inline-block;width:180px;padding: 0 15px;}
+.inline {display: inline-block;padding: 0 15px;}
 
 .map-label { text-shadow: -1px -1px 0 #ffffff,1px -1px 0 #ffffff,-1px 1px 0 #ffffff,1px 1px 0 #ffffff; font-weight:bold; }
 
