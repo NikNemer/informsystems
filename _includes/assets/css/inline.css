@@ -57,7 +57,20 @@ main > article :first-child {
 	margin-top: 0;
 }
 
-#section_main {background-image: url("/static/img/inno.jpg"); background-size: cover; height:100%;}
+#section_main {height:100%;}
+.page-wrapper .page-background {
+    background-image: url("/static/img/inno.jpg");
+    background-repeat: no-repeat;
+    background-origin: initial;
+    background-position: 50%;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+	position: relative;}
 .line-block {width:50%; height:1px; background-color:#CCC;margin: 5px auto 5px auto !important;}
 .top15em {margin-top:1.5em !important;}
 .title-block {}
