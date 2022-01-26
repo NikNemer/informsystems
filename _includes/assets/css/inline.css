@@ -58,6 +58,7 @@ main > article :first-child {
 }
 
 .line-block {width:50%; height:1px; background-color:#CCC;margin: 5px auto 5px auto !important;}
+.top15em {margin-top:1.5em !important;}
 .title-block {}
 .title-block h2 {margin: 1.5em 0; 
 	/* font-family: 'Raleway', sans-serif; */
