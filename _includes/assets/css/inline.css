@@ -68,7 +68,7 @@ header {
     right: 0;
     left: 0;
     z-index: 1030;
-	height:60px;
+	height:100px;
 	background: rgba(255, 255, 255, .55);
 }
 #main-h1 {font-family: 'Montserrat', sans-serif;
@@ -88,7 +88,7 @@ header {
 	}
 
 .page-wrapper {position: relative;}
-.page-wrapper .page-background { padding: 7em 1.5em 4em 1.5em;
+.page-wrapper .page-background { padding: 9em 1.5em 4em 1.5em;
     }
 .line-block {width:50%; height:1px; background-color:#CCC;margin: 5px auto 5px auto !important;}
 .top15em {margin-top:1.5em !important;}
