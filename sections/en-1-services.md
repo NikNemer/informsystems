@@ -6,7 +6,7 @@ order: 2
 <div class="title-block center"><h2>Our main services</h2></div>
 
 <div class="content-block">
-<div class="services-list">
+<div class="services-list center">
 
 <div class="serv">
 <div class="serv-icon"><i class="fa fa-line-chart fa-3x"></i></div>
