@@ -164,12 +164,16 @@ header nav li a {
 	color:#666;text-decoration: none;
 }
 
+header nav li a:hover {
+background-color: #e8194d;
+}
+
 header nav li a[href]:not(:hover) {
-	border-bottom: 2px solid #e8194d;text-decoration: none;
+	text-decoration: none;
 }
 
 header nav li a[data-current="current item"] {
-	background-color: #F6F6F6;
+	background-color: #e6e6e6;
 }
 
 /* Posts List */
