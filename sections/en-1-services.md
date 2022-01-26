@@ -23,5 +23,15 @@ order: 2
 <div class="serv-text">Our team can work on e-commerce projects by managing the back-end, improving the visual design, expanding the marketplace, and architecture and performance. Our web developers use a variety of coding platforms so we can find the right approach to update your products and increase customer retention.</div>
 </div>
 
+<div class="serv">
+<div class="serv-title">Custom integration</div>
+<div class="serv-text">Custom integration can make your life easier, more convenient, secure, energy-efficient, and enjoyable. We provide simple and effective integration, consistent work with all your products and services, improving their overall performance and life quality.</div>
+</div>
+
+<div class="serv">
+<div class="serv-title">Quality assurance and SLA</div>
+<div class="serv-text">We test product features to ensure they meet design specifications, streamline and simplify routine testing with a minimal set of scenarios. Our experts ensure that all service level agreements (SLAs) are delivered in accordance with the relevant specifications.</div>
+</div>
+
 </div>
 </div>
