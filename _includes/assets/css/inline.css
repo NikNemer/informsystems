@@ -96,7 +96,7 @@ header {
 .title-block h2 {padding: 1.5em; 
 	/* font-family: 'Raleway', sans-serif; */
 	font-family: 'Montserrat', sans-serif;
-	text-transform: uppercase; font-size: 2.5em; letter-spacing: 2.5px; 
+	text-transform: uppercase; font-size: 2.5em; letter-spacing: 2.5px; line-height:1em;
 	}
 .text-block h3 {font-family: 'Raleway', sans-serif; text-transform: uppercase; font-size: 1.5em; letter-spacing: 2.5px;margin: 1.5em 0 .5em 0 !important;}
 .section5 .text-block h3 {text-decoration: none; color: #BBB;}
@@ -106,7 +106,6 @@ header {
 .section0 .content-wrapper {border-left: 3px solid #e8194d;max-width:1200px;margin: 0 auto;padding: .5em 0 0.5em 2em;}
 .section0 .content-wrapper .core-title { line-height:1.5em; /* font-family: 'Raleway', sans-serif; */ font-weight:bold; text-transform: none; font-size: 1.4em;color:#333;padding:0 0 15px 0;}
 .section0 .content-wrapper .core-text {margin: 0 auto; font-size: 1.15em; line-height:1.5em;}
-.section2 .content-block { background-image: url("/static/img/innoo2.png"); padding: 1em 1em;color:#FFFFFF;}
 .section h2, .section.content-block { padding: 1.5em; margin:0; }
 .section5 { text-align: center; }
 .section5 .content-block { background-color:#FFF;}
@@ -119,6 +118,7 @@ header {
 .inline .serv a:hover {border-bottom: 2px solid #e8194d;text-decoration: none;}
 #logo {padding-top: 20px;}
 
+.section2 .content-block { background-image: url("/static/img/innoo2.png"); padding: 3em;color:#FFFFFF;}
 .serv .serv-title {font-size: 1.3em;font-weight:bold; line-height:1.5em;}
 .serv .serv-text {font-size: 1.15em; line-height:1.5em;}
 
