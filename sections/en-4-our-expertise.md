@@ -9,6 +9,7 @@ order: 4
 <div class="line-block top15em"></div>
 <div class="text-block">
 <h3>Back-end</h3>
+<div class="line-block"></div>
 <div class="pics-block">
 <div class="pic"><img src="/static/img/python-logo.png" width=180 height=120></div>
 <div class="pic"><img src="/static/img/mongodblogo.png" width=180 height=120></div>
@@ -17,6 +18,7 @@ order: 4
 <div class="pic"><img src="/static/img/nodejslogo.png" width=180 height=120></div>
 </div>
 <h3>PM & BA</h3>
+<div class="line-block"></div>
 <div class="pics-block">
 <div class="pic"><img src="/static/img/logo-visio.png" width=180 height=120></div>
 <div class="pic"><img src="/static/img/teamgantt-logo.png" width=180 height=120></div>
@@ -24,6 +26,7 @@ order: 4
 <div class="pic"><img src="/static/img/balsamiq-logo.png" width=180 height=120></div>
 </div>
 <h3>DevOps</h3>
+<div class="line-block"></div>
 <div class="pics-block">
 <div class="pic"><img src="/static/img/kubernetes-logo.png" width=180 height=120></div>
 <div class="pic"><img src="/static/img/jetbrains-teamcity-logo.png" width=180 height=120></div>
