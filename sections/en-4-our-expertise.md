@@ -9,7 +9,11 @@ order: 4
 <div class="text-block">
 <h3>Back-end</h3>
 <div class="pics-block">
-<div class="pic"><img src="/static/img/python-logo.png" width=180 height=180></div>
+<div class="pic"><img src="/static/img/python-logo.png" width=180 height=120></div>
+<div class="pic"><img src="/static/img/mongodblogo.png" width=180 height=120></div>
+<div class="pic"><img src="/static/img/javalogo.png" width=180 height=120></div>
+<div class="pic"><img src="static/img/restapilogo.png" width=180 height=120></div>
+<div class="pic"><img src="static/img/nodejslogo.png" width=180 height=120></div>
 </div>
 <h3>PM & BA</h3>
 <div class="pics-block">
