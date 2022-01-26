@@ -9,4 +9,4 @@ eleventyNavigation:
   order: 0
 ---
 <div id="main-h2">Innovations Development and Implementation for the areas:</div>
-<div id="main-h1">Logistics, Retail and Agrofood</div>
+<div id="main-h1">Logistics, Retail and Agrifood</div>
