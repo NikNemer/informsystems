@@ -17,11 +17,10 @@ order: 4
 </div>
 <h3>PM & BA</h3>
 <div class="pics-block">
-<div class="pic"><img src="/static/img/python-logo.png" width=180 height=120></div>
-<div class="pic"><img src="/static/img/mongodblogo.png" width=180 height=120></div>
-<div class="pic"><img src="/static/img/javalogo.png" width=180 height=120></div>
-<div class="pic"><img src="/static/img/restapilogo.png" width=180 height=120></div>
-<div class="pic"><img src="/static/img/nodejslogo.png" width=180 height=120></div>
+<div class="pic"><img src="/static/img/logo-visio.png" width=180 height=120></div>
+<div class="pic"><img src="/static/img/teamgantt-logo.png" width=180 height=120></div>
+<div class="pic"><img src="/static/img/mirologo.png" width=180 height=120></div>
+<div class="pic"><img src="/static/img/balsamiq-logo.png" width=180 height=120></div>
 </div>
 <h3>DevOps</h3>
 <div class="pics-block">
