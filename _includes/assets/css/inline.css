@@ -119,8 +119,8 @@ header {
 #logo {padding-top: 20px;}
 
 .section2 .content-block { background-image: url("/static/img/innoo2.png"); padding: 3em;color:#FFFFFF;}
-.serv .serv-title {font-size: 1.3em;font-weight:bold; line-height:1.5em;}
-.serv .serv-text {font-size: 1.15em; line-height:1.5em;}
+.serv .serv-title {font-size: 1.3em;font-weight:bold; line-height:1.5em; padding-bottom:1em;}
+.serv .serv-text {font-size: 1.15em; line-height:1.5em; padding-bottom:2em;}
 
 .map-label { text-shadow: -1px -1px 0 #ffffff,1px -1px 0 #ffffff,-1px 1px 0 #ffffff,1px 1px 0 #ffffff; font-weight:bold; }
 
