@@ -57,7 +57,7 @@ main > article :first-child {
 	margin-top: 0;
 }
 
-#section_main {max-height:600px;height:100%;}
+#section_main {max-height:200px;}
 .page-wrapper {height:100%;}
 .page-wrapper .page-background {
     background-image: url("/static/img/hg.jpg");
