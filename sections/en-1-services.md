@@ -24,7 +24,7 @@ order: 2
 </div>
 
 <div class="serv">
-<div class="serv-icon"><i class="fa fa-cogs fa-2x"></i></div>
+<div class="serv-icon"><i class="fa fa-cogs fa-3x"></i></div>
 <div class="serv-title">Custom integration</div>
 <div class="serv-text">Custom integration can make your life easier, more convenient, secure, energy-efficient, and enjoyable. We provide simple and effective integration, consistent work with all your products and services, improving their overall performance and life quality.</div>
 </div>
