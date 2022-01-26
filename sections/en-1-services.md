@@ -18,5 +18,10 @@ order: 2
 <div class="serv-text">Based on our extensive background knowledge of UI and UX, we are able to solve all obstacles for your business. We constantly create practical and visually appealing designs for the user. Our team uses a human-centered approach to create transformative digital experiences that solve even the most complex business challenges.</div>
 </div>
 
+<div class="serv">
+<div class="serv-title">Web applications development </div>
+<div class="serv-text">Our team can work on e-commerce projects by managing the back-end, improving the visual design, expanding the marketplace, and architecture and performance. Our web developers use a variety of coding platforms so we can find the right approach to update your products and increase customer retention.</div>
+</div>
+
 </div>
 </div>
