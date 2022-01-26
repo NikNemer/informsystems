@@ -120,7 +120,7 @@ header {
 
 .section2 .content-block { background-image: url("/static/img/innoo2.png"); padding: 3em;color:#FFFFFF;}
 .section2 .content-block .serv { padding-left:60px; position: relative;}
-.serv-icon {position: absolute; left:0px; top:0px;}
+.serv-icon {position: absolute; left:0px; top:10px;}
 .serv .serv-title {font-size: 1.3em;font-weight:bold; line-height:1.5em; padding-bottom:1em;}
 .serv .serv-text {font-size: 1.15em; line-height:1.5em; padding-bottom:2em;}
 
