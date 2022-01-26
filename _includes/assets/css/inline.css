@@ -57,7 +57,7 @@ main > article :first-child {
 	margin-top: 0;
 }
 
-
+.line-block {width:50%; height:1px; background-color:#CCC;}
 .title-block {}
 .title-block h2 {margin: 1.5em 0; 
 	/* font-family: 'Raleway', sans-serif; */
