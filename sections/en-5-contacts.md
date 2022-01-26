@@ -1,7 +1,7 @@
 ---
-title: en - 5 - Contacts
+title: en - 6 - Contacts
 language: en
-order: 5
+order: 6
 ---
 <div class="title-block center"><h2>Contacts</h2></div>
 <div class="text-block center">
