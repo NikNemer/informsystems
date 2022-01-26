@@ -67,7 +67,7 @@ main > article :first-child {
 .section4 { text-align: center; }
 .section4 .content-block { background-color:#FFF;}
 .section5 { height:400px;}
-.pics-block .pic {dispaly: inline-block;}
+.pics-block .pic {display: inline-block;width:180px;padding: 5px;}
 
 #map_canvas {
   height: 100%;
