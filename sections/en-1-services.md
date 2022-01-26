@@ -8,7 +8,7 @@ order: 2
 <div class="content-block">
 <div class="services-list">
 
-<div class="serv">
+<div class="serv"><i class=“fi fi-shield fi-r-45”></i>
 <div class="serv-title">Business analysis</div>
 <div class="serv-text">We create a clean, simple process with detailed descriptions, consult with our team of professionals during the development process, identify customer needs, collect business requirements and find solutions to their problems.</div>
 </div>
