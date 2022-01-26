@@ -6,7 +6,7 @@ order: 4
 <div class="title-block center"><h2>Our Expertise</h2></div>
 <div class="content-block">
 <div class="intro-block">Our programmers are constantly improving and using advanced technologies and platforms. <br /> We work with leading data protection protocols</div>
-<div class="line-block"></div>
+<div class="line-block top15em"></div>
 <div class="text-block">
 <h3>Back-end</h3>
 <div class="pics-block">
