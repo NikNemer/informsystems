@@ -106,7 +106,7 @@ header {
 .section0 .content-wrapper {border-left: 3px solid #e8194d;max-width:1200px;margin: 0 auto;padding: .5em 0 0.5em 2em;}
 .section0 .content-wrapper .core-title {/* font-family: 'Raleway', sans-serif; */ font-weight:bold; text-transform: none; font-size: 1.25em;color:#333;padding:0 0 15px 0;}
 .section0 .content-wrapper .core-text {margin: 0 auto; font-size: 1.15em;}
-.section2 .content-block { background: linear-gradient(22deg,#f10a61,#35040D,#e52045)#e8194d; padding: 1em 1em;color:#FFFFFF;}
+.section2 .content-block { background: linear-gradient(22deg,#f10a61,#FF6A86,#e52045)#e8194d; padding: 1em 1em;color:#FFFFFF;}
 .section h2, .section.content-block { padding: 1.5em; margin:0; }
 .section5 { text-align: center; }
 .section5 .content-block { background-color:#FFF;}
