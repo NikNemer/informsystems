@@ -9,7 +9,7 @@ order: 4
 <div class="text-block">
 <h3>Back-end</h3>
 <div class="pics-block">
-
+<div class="pic"><img src="/static/img/python-logo.png" width=180 height=180></div>
 </div>
 <h3>PM & BA</h3>
 <div class="pics-block">
