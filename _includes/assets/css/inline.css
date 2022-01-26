@@ -104,8 +104,8 @@ header {
 .section {padding-bottom:3em;}
 .section0 {padding:3em 1.5em;}
 .section0 .content-wrapper {}
-.section0 .content-wrapper .core-title {font-family: 'Raleway', sans-serif; text-transform: none; font-size: 1em;magrin 0 auto; max-width:1000px;}
-.section0 .content-wrapper .core-text {magrin 0 auto; max-width:1000px;}
+.section0 .content-wrapper .core-title {font-family: 'Raleway', sans-serif; text-transform: none; font-size: 1em;magrin: 0 auto; max-width:1000px;}
+.section0 .content-wrapper .core-text {magrin: 0 auto; max-width:1000px;}
 .section1 .content-block { background-color:#2982E1;padding: 1em 1em;color:#FFFFFF;}
 .section h2, .section.content-block { padding: 1.5em; margin:0; }
 .section4 { text-align: center; }
