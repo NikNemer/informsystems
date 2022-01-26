@@ -70,7 +70,7 @@ main > article :first-child {
 .title-block.center {align-items: center; text-align:center;}
 .section {padding-bottom:1.5em;}
 .section1 .content-block { background-color:#2982E1;padding: 1em 1em;color:#FFFFFF;}
-.section h2, .section.content-block { padding: 1.5em;}
+.section h2, .section.content-block { padding: 1.5em; margin:0; }
 .section4 { text-align: center; }
 .section4 .content-block { background-color:#FFF;}
 .section5 { background-color:#F6F6F6;padding-bottom:0 !important; }
