@@ -8,7 +8,7 @@ order: 2
 <div class="content-block">
 <div class="services-list">
 
-<div class="serv"><i class="fa fa-camera-retro fa-lg"></i> fa-lg
+<div class="serv">
 <div class="serv-title">Business analysis</div>
 <div class="serv-text">We create a clean, simple process with detailed descriptions, consult with our team of professionals during the development process, identify customer needs, collect business requirements and find solutions to their problems.</div>
 </div>
@@ -24,6 +24,7 @@ order: 2
 </div>
 
 <div class="serv">
+<div class="serv-icon"><i class="fa fa-cogs fa-2x"></i></div>
 <div class="serv-title">Custom integration</div>
 <div class="serv-text">Custom integration can make your life easier, more convenient, secure, energy-efficient, and enjoyable. We provide simple and effective integration, consistent work with all your products and services, improving their overall performance and life quality.</div>
 </div>
