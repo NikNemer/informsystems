@@ -57,8 +57,12 @@ main > article :first-child {
 	margin-top: 0;
 }
 
-#section_main {max-height:200px;position: relative;}
-.page-wrapper {height:100%;position: relative;}
+#section_main {min-height:200px;position: relative; text-align:center;}
+#section_main .text-block {    line-height: 1;
+    position: relative;
+    text-transform: uppercase;
+    color: #a1e74b;}
+.page-wrapper {position: relative;}
 .page-wrapper .page-background {
     background-image: url("/static/img/hg.jpg");
     background-repeat: no-repeat;
