@@ -104,8 +104,8 @@ header {
 .section {padding-bottom:3em;}
 .section0 {padding:3em 1.5em;}
 .section0 .content-wrapper {border-left: 3px solid #e8194d;max-width:1200px;margin: 0 auto;padding: .5em 0 0.5em 2em;}
-.section0 .content-wrapper .core-title {/* font-family: 'Raleway', sans-serif; */ font-weight:bold; text-transform: none; font-size: 1.25em;color:#333;padding:0 0 15px 0;}
-.section0 .content-wrapper .core-text {margin: 0 auto; font-size: 1.15em;}
+.section0 .content-wrapper .core-title { line-height:1.5em; /* font-family: 'Raleway', sans-serif; */ font-weight:bold; text-transform: none; font-size: 1.4em;color:#333;padding:0 0 15px 0;}
+.section0 .content-wrapper .core-text {margin: 0 auto; font-size: 1.15em; line-height:1.5em;}
 .section2 .content-block { background-image: url("/static/img/innoo2.png"); padding: 1em 1em;color:#FFFFFF;}
 .section h2, .section.content-block { padding: 1.5em; margin:0; }
 .section5 { text-align: center; }
@@ -119,8 +119,8 @@ header {
 .inline .serv a:hover {border-bottom: 2px solid #e8194d;text-decoration: none;}
 #logo {padding-top: 20px;}
 
-.serv .serv-title {font-family: 'Raleway', sans-serif; text-transform: none; font-size: 1.15em;}
-.serv .serv-text {font-size: 1.15em;}
+.serv .serv-title {font-size: 1.3em;font-weight:bold; line-height:1.5em;}
+.serv .serv-text {font-size: 1.15em; line-height:1.5em;}
 
 .map-label { text-shadow: -1px -1px 0 #ffffff,1px -1px 0 #ffffff,-1px 1px 0 #ffffff,1px 1px 0 #ffffff; font-weight:bold; }
 
