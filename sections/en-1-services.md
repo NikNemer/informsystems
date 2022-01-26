@@ -3,7 +3,7 @@ title: en - 1 - Services
 language: en
 order: 1
 ---
-<div class="title-block center"><p class="main-text">Our main services</p></div>
+<div class="title-block center"><h2>Our main services</h2></div>
 <div class="content-block">
 <div class="sevices-list">    • Business analysis
 We create a clean, simple process with detailed descriptions, consult with our team of professionals during the development process, identify customer needs, collect business requirements and find solutions to their problems.
