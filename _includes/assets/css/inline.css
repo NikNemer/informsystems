@@ -281,6 +281,10 @@ button {
 	#main-h2 {font-size: 1.6em;}
 	.title-block h2 {font-size: 2em;}
 }
+@media screen and (max-width: 600px)
+{ 
+	.section4 .proj-block {display: block;width:auto;max-width:500px;}
+}
 @media screen and (min-width:768px) {
 	:root {
 		/* font-size: 1.1rem; */
