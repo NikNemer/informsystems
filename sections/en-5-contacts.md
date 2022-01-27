@@ -3,6 +3,7 @@ title: en - 6 - Contacts
 language: en
 order: 6
 ---
+<a id="contact"></a>
 <div class="title-block center"><h2>Contacts</h2></div>
 <div class="text-block center">
 <p class="addr">LLC "INFORM SYSTEMS" - Customer service & Marketing</p>
