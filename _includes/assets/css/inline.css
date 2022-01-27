@@ -62,9 +62,9 @@ header {
     z-index: 500;
 }
 
-#mmenulogo { display:inline-block;color:#666;text-decoration: none;padding: .25em .5em; border-radius: .25em;margin-left:20px;}
+#mmenulogo { display:none;color:#666;text-decoration: none;padding: .25em .5em; border-radius: .25em;margin-left:20px;}
 #mmenulogo:hover { background-color: #e6e6e6; }
-.hides {display:none !important;}
+.hides {display:none;}
 .fixed-top {
     position: fixed;
     top: 0;
@@ -268,7 +268,7 @@ button {
 }
 @media screen and (max-width: 915px)
 { 	#mmenu {display:none; background-color:#FFF;}
-	#mmenulogo.hides {display:inline-block;}
+	#mmenulogo {display:inline-block;}
 	#mmenu.inline .serv {display: block; padding: 15px 0;}
 	#main-h1 {font-size: 3em;}
 	#main-h2 {font-size: 1.6em;}
