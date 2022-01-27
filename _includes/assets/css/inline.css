@@ -126,7 +126,15 @@ header {
 .section4 .proj-block.pb3 .pb-pic{ background-image: url("/static/img/agri.jpg"); background-position: 50% 50%;}
 .section6 { background-color:#F0F0F0;padding-bottom:0 !important; background-image: url("/static/img/lbg2.png");background-position: 80% 0%;background-repeat: no-repeat;}
 .section6 .map-block { height:400px; }
-.addr {padding-left: 150px; background-image: url("/static/img/logo1.png");background-position: 0% 0%;background-repeat: no-repeat;}
+.addr .addrlogo {width: 150px; background-image: url("/static/img/logo1.png");background-position: 0% 0%;background-repeat: no-repeat;
+background-origin: initial;
+    background-position: 50%;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; */
+    overflow: hidden;}
+.addr .addrname {font-family: 'Raleway', sans-serif;text-transform: uppercase; font-size: 1.15em; line-heigh:1.5em;}
 .pics-block .pic {display: inline-block;width:180px;padding: 0 15px;}
 .inline {display: inline-block;padding: 0 15px;vertical-align:middle;}
 .inline .serv {display: inline-block;margin: 0 20px;font-family: 'Raleway', sans-serif; text-transform: uppercase; font-size: .92em;}
