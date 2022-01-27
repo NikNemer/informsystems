@@ -123,7 +123,7 @@ header {
 .section2 .content-block .serv { /*padding-left:80px;*/ position: relative; display:inline-block; padding:1em; width:300px; text-align:left;vertical-align: top;}
 .serv .serv-icon { /* position: absolute; left:0px; top:0px; */ padding-bottom:1.5em;}
 .serv .serv-title {font-size: 1.3em;font-weight:bold; line-height:1.5em; padding-bottom:1em;}
-.serv .serv-text {font-size: 1.15em; line-height:1.5em; padding-bottom:2em;}
+.serv .serv-text {font-size: 1em; line-height:1.5em; padding-bottom:2em;}
 
 .map-label { text-shadow: -1px -1px 0 #ffffff,1px -1px 0 #ffffff,-1px 1px 0 #ffffff,1px 1px 0 #ffffff; font-weight:bold; }
 
