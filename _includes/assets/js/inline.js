@@ -7,7 +7,7 @@ if (window.netlifyIdentity) {
     }
   });
 }
-var tStart = 100 // Start transition 100px from top
+var tStart = 0 // Start transition 100px from top
   , tEnd = 300   // End at 300px
   , oStart = .55
   , oEnd = 1
