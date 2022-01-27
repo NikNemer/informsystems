@@ -123,7 +123,7 @@ header {
 .section4 .proj-block.pb1 .pb-pic{ background-image: url("/static/img/logiscs.jpg"); background-position: 50% 50%;}
 .section4 .proj-block.pb2 .pb-pic{ background-image: url("/static/img/retail.jpg"); background-position: 50% 50%;}
 .section4 .proj-block.pb3 .pb-pic{ background-image: url("/static/img/agri.jpg"); background-position: 50% 50%;}
-.section6 { background-color:#F0F0F0;padding-bottom:0 !important; }
+.section6 { background-color:#F0F0F0;padding-bottom:0 !important; background-image: url("/static/img/lbg2.png");background-position: 80% 0%;background-repeat: no-repeat;}
 .section6 .map-block { height:400px; }
 .pics-block .pic {display: inline-block;width:180px;padding: 0 15px;}
 .inline {display: inline-block;padding: 0 15px;vertical-align:middle;}
