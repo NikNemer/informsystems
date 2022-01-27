@@ -115,10 +115,11 @@ header {
 .section5 { text-align: center; }
 .section5 .content-block { background-color:#FFF;padding-bottom:4em !important;}
 .section4 { background-color:#F0F0F0;padding-bottom:4em !important; }
-.section4 .proj-block {display: inline-block;padding: 0 15px;vertical-align:top;width:500px;text-align:left;}
+.section4 .proj-block {display: inline-block;padding: 0 15px;vertical-align:top;width:500px;text-align:left; position:relative;}
 .section4 .proj-block .pb-title-main {font-family: 'Raleway', sans-serif;text-transform: uppercase; font-size: 1.15em; line-heigh:1.5em;}
 .section4 .proj-block .pb-title-sub {font-size: 1.15em; line-heigh:1.5em;}
 .section4 .proj-block .pb-text {font-size: 1em; line-height:1.5em; padding-bottom:2em;}
+.section4 .proj-block .pb-pic {height:120px; width:100%; position:relative;}
 .section6 { background-color:#F0F0F0;padding-bottom:0 !important; }
 .section6 .map-block { height:400px; }
 .pics-block .pic {display: inline-block;width:180px;padding: 0 15px;}
