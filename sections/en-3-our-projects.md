@@ -29,13 +29,32 @@ order: 4
 <div class="proj-block pb2">
 <div class="pb-pic"></div>
 <div class="pb-title"><div class="pb-title-main">RETAIL</div><div class="pb-title-sub">Over 15 projects</div></div>
-<div class="pb-text"></div>
+<div class="pb-text">
+<p>We create a new customer experience to increase loyalty, purchase frequency, and average order value. All these tasks are supported with innovative mobile applications and server solutions.</p>
+<p>We are experienced in solving the following tasks:</p>
+<ul>
+<li>Mobile application for loyalty programs</li>
+<li>Quality control management system</li>
+<li>Refinement and integration of ERP systems</li>
+<li>Website development for retail companies</li>
+<li>Personal workplace for communication with transport companies</li>
+<li>Order management system for freight companies</li>
+</ul>
+</div>
 </div>
 
 <div class="proj-block pb3">
 <div class="pb-pic"></div>
 <div class="pb-title"><div class="pb-title-main">AGRICULTURE</div><div class="pb-title-sub">Over 5 projects</div></div>
-<div class="pb-text"></div>
+<div class="pb-text">
+<p>We have extensive experience in the digitalization of supply chains in agriculture and food, as well as relevant experience related to:</p>
+<ul>
+<li>Applications for field reconnaissance</li>
+<li>Information analytics based on GIS</li>
+<li>Image recognition and processing</li>
+<li>Mobile applications for distribution companies</li>
+</ul>
+</div>
 </div>
 
 </div>
