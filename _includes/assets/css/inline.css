@@ -296,7 +296,7 @@ button {
 }
 @media screen and (max-width: 600px)
 { 
-	.section4 .proj-block {display: block;width:auto;max-width:500px;}
+	.section4 .proj-block {display: block;width:auto;max-width:500px;margin:0 auto !important;}
 }
 @media screen and (min-width:768px) {
 	:root {
