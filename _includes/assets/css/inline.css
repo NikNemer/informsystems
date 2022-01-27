@@ -64,7 +64,7 @@ header {
 
 #mmenulogo { display:none;color:#666;text-decoration: none;padding: .25em .5em; border-radius: .25em;margin-left:20px;}
 #mmenulogo:hover { background-color: #e6e6e6; cursor: pointer;}
-.hides {display:none;}
+.hides {display:none !important;}
 .fixed-top {
     position: fixed;
     top: 0;
