@@ -62,6 +62,7 @@ header {
     z-index: 500;
 }
 
+#mmenulogo {display:inline-block;}
 .hides {display:none;}
 .fixed-top {
     position: fixed;
@@ -266,7 +267,7 @@ button {
 }
 @media screen and (max-width: 915px)
 { 	#mmenu {display:none;}
-	#mmenulogo {display:inline-block;}
+	#mmenulogo.hides {display:inline-block;}
 	#mmenu.inline .serv {display: block; padding: 15px 0;}
 	#main-h1 {font-size: 3em;}
 	#main-h2 {font-size: 1.6em;}
