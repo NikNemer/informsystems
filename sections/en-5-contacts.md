@@ -6,7 +6,12 @@ order: 6
 <a id="contact"></a>
 <div class="title-block center"><h2>Contacts</h2></div>
 <div class="text-block center">
-<div class="addr"><strong>LLC "Inform Systems"</strong><br /> Customer service & Marketing</div>
+
+<div class="addr">
+<div class="addrlogo inline"></div>
+<div class="addrname inline"><strong>LLC "Inform Systems"</strong><br /> Customer service & Marketing</div>
+</div>
+
 <p><b>Carnegie Center</b><br />
 7 Klovskyi Spusk Street, floor 30, Kyiv 02000, Ukraine</p>
 <p>&nbsp;</p>
