@@ -110,6 +110,7 @@ header {
 .section0 .content-wrapper .core-title { line-height:1.5em; /* font-family: 'Raleway', sans-serif; */ font-weight:bold; text-transform: none; font-size: 1.4em;color:#333;padding:0 0 15px 0;}
 .section0 .content-wrapper .core-text {margin: 0 auto; font-size: 1.15em; line-height:1.5em;}
 .section h2, .section.content-block { padding: 1.5em; margin:0; }
+.section3 {background-image: url("/static/img/waves2.jpg");background-position:center bottom;background-repeat: no-repeat;padding-botom:5em;}
 .section5 { text-align: center; }
 .section5 .content-block { background-color:#FFF;padding-bottom:4em !important;}
 .section4 { background-color:#F6F6F6;padding-bottom:4em !important; }
