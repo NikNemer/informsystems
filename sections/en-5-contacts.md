@@ -9,7 +9,7 @@ order: 6
 
 <div class="addr">
 <div class="addrlogo inline"></div>
-<div class="addrname inline"><strong>LLC "Inform Systems"</strong><br /> Customer service & Marketing</div>
+<div class="addrname inline">LLC "Inform Systems"<br /> Customer service &<br /> Marketing</div>
 </div>
 
 <p><b>Carnegie Center</b><br />
