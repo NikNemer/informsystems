@@ -8,8 +8,8 @@ order: 4
 <div class="content-block center">
 
 <div class="proj-block pb1">
-<div class="pb-pic"></div>
 <div class="pb-title"><div class="pb-title-main">LOGISTICS AND TRANSPORT</div><div class="pb-title-sub">Over 20 projects</div></div>
+<div class="pb-pic"></div>
 <div class="pb-text">
 <p>We make logistics more intelligent to reduce unnecessary costs, make data-driven decisions.</p>
 <p>We innovate based on our deep understanding of the automotive industry and our proven solutions; there is no project that we could not master.</p>
@@ -27,8 +27,8 @@ order: 4
 </div>
 
 <div class="proj-block pb2">
-<div class="pb-pic"></div>
 <div class="pb-title"><div class="pb-title-main">RETAIL</div><div class="pb-title-sub">Over 15 projects</div></div>
+<div class="pb-pic"></div>
 <div class="pb-text">
 <p>We create a new customer experience to increase loyalty, purchase frequency, and average order value. All these tasks are supported with innovative mobile applications and server solutions.</p>
 <p>We are experienced in solving the following tasks:</p>
@@ -44,8 +44,8 @@ order: 4
 </div>
 
 <div class="proj-block pb3">
-<div class="pb-pic"></div>
 <div class="pb-title"><div class="pb-title-main">AGRICULTURE</div><div class="pb-title-sub">Over 5 projects</div></div>
+<div class="pb-pic"></div>
 <div class="pb-text">
 <p>We have extensive experience in the digitalization of supply chains in agriculture and food, as well as relevant experience related to:</p>
 <ul>
