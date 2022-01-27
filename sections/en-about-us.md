@@ -1,7 +1,7 @@
 ---
-title: en - 3 - About Us
+title: en - 2 - About Us
 language: en
-order: 3
+order: 2
 ---
 <a id="about"></a>
 <div class="title-block center"><h2>About Us</h2></div>
