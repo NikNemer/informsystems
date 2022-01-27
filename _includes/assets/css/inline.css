@@ -62,7 +62,7 @@ header {
     z-index: 500;
 }
 
-#mmenulogo { display:inline-block;color:#666;text-decoration: none;padding: .25em .5em; border-radius: .25em;}
+#mmenulogo { display:inline-block;color:#666;text-decoration: none;padding: .25em .5em; border-radius: .25em;margin-left:35px;}
 #mmenulogo a:hover { background-color: #e6e6e6; }
 .hides {display:none;}
 .fixed-top {
