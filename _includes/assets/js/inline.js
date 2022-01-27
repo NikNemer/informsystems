@@ -34,5 +34,8 @@ $(document).ready(function(){
     });
   $('#mmenulogo').click(function() {
                 $('#mmenu').slideToggle("fast");
+    setTimeout(function() {
+    $('#mmenu').fadeOut('fast');
+}, 3000); // <-- time in milliseconds
         });
 });
