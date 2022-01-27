@@ -263,7 +263,7 @@ button {
 	color: var(--secondary);
 	cursor: pointer;
 }
-@media screen and (min-width: 915px)
+@media screen and (max-width: 915px)
 {  #mmenu {display:none;}
 }
 @media screen and (min-width:768px) {
