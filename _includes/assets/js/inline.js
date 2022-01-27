@@ -14,6 +14,12 @@ var tStart = 0 // Start transition 100px from top
   , oDiff = oEnd - oStart;
 
 $(document).ready(function(){
+  if ($(window).width() < 920) {
+    $( "#mmenu" ).addClass( "hides" );
+  }
+  $( "#mmenu .serv a" ).on( "click", function() {
+     $( "#mmenu" ).addClass( "hides" );
+});
     $(document).scroll(function() {
         var p = ($(this).scrollTop() - tStart) / (tEnd - tStart); // % of transition
         p = Math.min(1, Math.max(oStart, p)); // Clamp to [0, 1]
@@ -26,6 +32,7 @@ $(document).ready(function(){
         }
     });
   $('#mmenulogo').click(function() {
+                $( "#mmenu" ).removeClass( "hides" );
                 $('#mmenu').slideToggle("fast");
         });
 });
