@@ -16,7 +16,7 @@ var tStart = 0 // Start transition 100px from top
 $(document).ready(function(){
   if ($(window).width() < 920) {
     $( "#mmenu" ).hide();
-    $( "#mmenu .serv a, :not(#mmenu .serv)" ).on( "click", function() {
+    $( "#mmenu .serv a" ).on( "click", function() {
       $("#mmenu:visible").hide();
         });
     
