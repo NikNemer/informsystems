@@ -1,7 +1,7 @@
 ---
-title: en - 2 - Services
+title: en - 1 - Services
 language: en
-order: 2
+order: 1
 ---
 <a id="services"></a>
 <div class="title-block center"><h2>Our main services</h2></div>
