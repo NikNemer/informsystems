@@ -130,7 +130,7 @@ header {
 .inline .serv {display: inline-block;margin: 0 20px;font-family: 'Raleway', sans-serif; text-transform: uppercase; font-size: .92em;}
 .inline .serv a, .inline .serv a:active, .inline .serv  a:visited {color:#666;text-decoration: none;}
 .inline .serv a:hover {border-bottom: 2px solid #e8194d;text-decoration: none;}
-#logo {padding-top: 20px;}
+#logo {padding-top: 10px;}
 
 .section2 .content-block { background-image: url("/static/img/innoo2.png"); padding: 3em;color:#FFFFFF;}
 .section2 .content-block .services-list {vertical-align:top;}
