@@ -25,4 +25,7 @@ $(document).ready(function(){
            $('.fixed-top').fadeOut();
         }
     });
+  $('#mmenulogo').click(function() {
+                $('#mmenu').slideToggle("fast");
+        });
 });
