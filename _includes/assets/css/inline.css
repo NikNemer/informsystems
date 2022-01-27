@@ -109,6 +109,7 @@ header {
 .section h2, .section.content-block { padding: 1.5em; margin:0; }
 .section5 { text-align: center; }
 .section5 .content-block { background-color:#FFF;}
+.section4 { background-color:#F6F6F6;padding-bottom:3em !important; }
 .section6 { background-color:#F6F6F6;padding-bottom:0 !important; }
 .section6 .map-block { height:400px; }
 .pics-block .pic {display: inline-block;width:180px;padding: 0 15px;}
