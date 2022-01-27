@@ -119,7 +119,7 @@ header {
 .section4 .proj-block .pb-title-main {font-family: 'Raleway', sans-serif;text-transform: uppercase; font-size: 1.15em; line-heigh:1.5em;}
 .section4 .proj-block .pb-title-sub {font-size: 1.15em; line-heigh:1.5em;}
 .section4 .proj-block .pb-text {font-size: 1em; line-height:1.5em; padding-bottom:1em;}
-.section4 .proj-block .pb-pic {height:120px; width:100%; position:relative;margin:1em 0;}
+.section4 .proj-block .pb-pic {height:120px; width:100%; position:relative;margin:1.5em 0;}
 .section4 .proj-block.pb1 .pb-pic{ background-image: url("/static/img/logiscs.jpg"); background-position: 50% 50%;}
 .section4 .proj-block.pb2 .pb-pic{ background-image: url("/static/img/retail.jpg"); background-position: 50% 50%;}
 .section4 .proj-block.pb3 .pb-pic{ background-image: url("/static/img/agri.jpg"); background-position: 50% 50%;}
