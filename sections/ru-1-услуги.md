@@ -11,32 +11,32 @@ order: 1
 
 <div class="serv">
 <div class="serv-icon"><i class="fa fa-line-chart fa-3x"></i></div>
-<div class="serv-title">Business analysis</div>
-<div class="serv-text">We create a clean, simple process with detailed descriptions, consult with our team of professionals during the development process, identify customer needs, collect business requirements and find solutions to their problems.</div>
+<div class="serv-title">Бизнес-анализ</div>
+<div class="serv-text">Мы создаем чистый простой процесс с подробным описанием, консультируемся с нашей командой профессионалов в процессе разработки, выявляем потребности клиентов, собираем бизнес-требования и определяем решения их проблем.</div>
 </div>
 
 <div class="serv">
 <div class="serv-icon"><i class="fa fa-object-group fa-3x"></i></div>
-<div class="serv-title">UX/UI and product design</div>
-<div class="serv-text">Based on our extensive background knowledge of UI and UX, we are able to solve all obstacles for your business. We constantly create practical and visually appealing designs for the user. Our team uses a human-centered approach to create transformative digital experiences that solve even the most complex business challenges.</div>
+<div class="serv-title">UX/UI и продуктовый дизайн</div>
+<div class="serv-text">Благодаря нашим обширным базовым знаниям в области пользовательского интерфейса и UX мы способны решить все препятствия для вашего бизнеса. Мы постоянно создаем эффективные и визуально привлекательные дизайны для пользователя. Наша команда использует подход, ориентированный на человека, для создания преобразующего цифрового опыта, который решает даже самые сложные бизнес-задачи.</div>
 </div>
 
 <div class="serv">
 <div class="serv-icon"><i class="fa fa-television fa-3x"></i></div>
-<div class="serv-title">Web applications development </div>
-<div class="serv-text">Our team can work on e-commerce projects by managing the back-end, improving the visual design, expanding the marketplace, and architecture and performance. Our web developers use a variety of coding platforms so we can find the right approach to update your products and increase customer retention.</div>
+<div class="serv-title">Разработка веб-приложений</div>
+<div class="serv-text">Наша команда может работать над проектами электронной коммерции, настраивая серверную часть, улучшая визуальный дизайн, расширяя рынок, а также архитектуру и производительность. Наши веб-разработчики используют различные платформы кодирования, поэтому мы можем найти правильный подход для обновления ваших продуктов и увеличения удержания клиентов.</div>
 </div>
 
 <div class="serv">
 <div class="serv-icon"><i class="fa fa-cogs fa-3x"></i></div>
-<div class="serv-title">Custom integration</div>
-<div class="serv-text">Custom integration can make your life easier, more convenient, secure, energy-efficient, and enjoyable. We provide simple and effective integration, consistent work with all your products and services, improving their overall performance and life quality.</div>
+<div class="serv-title">Пользовательская интеграция</div>
+<div class="serv-text">Пользовательская интеграция может упростить вашу жизнь, сделав ее более удобной, безопасной, энергоэффективной и приятной. Мы обеспечиваем простую и эффективную интеграцию, единообразную работу со всеми вашими продуктами и услугами, улучшая их общую производительность и качество жизни.</div>
 </div>
 
 <div class="serv">
 <div class="serv-icon"><i class="fa fa-diamond fa-3x"></i></div>
-<div class="serv-title">Quality assurance and SLA</div>
-<div class="serv-text">We test product features to ensure they meet design specifications, streamline and simplify routine testing with a minimal set of scenarios. Our experts ensure that all service level agreements (SLAs) are delivered in accordance with the relevant specifications.</div>
+<div class="serv-title">Обеспечение качеcтва и SLA</div>
+<div class="serv-text">Мы тестируем функции продукта, чтобы убедиться, что они соответствуют спецификациям дизайна, оптимизируем и упрощаем рутинное тестирование с помощью минимального набора сценариев. Наши специалисты гарантируют, что все соглашения об уровне обслуживания (SLA) в организации предоставляются в соответствии с соответствующими спецификациями.</div>
 </div>
 
 </div>
