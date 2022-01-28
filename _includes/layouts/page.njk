@@ -2,10 +2,13 @@
 layout: layouts/base.njk
 section: page
 ---
-<div id="section_main">
-<h1>{{ title }}!</h1>
+<div id="section_main" class="ru">
+<div class="page-wrapper">
+<div class="page-background">
 {{ layoutContent | safe }}
+</div>
+</div>
 </div>
 
 {% set sectionslist = collections.sections %}
-{% include "components/sectionslist.njk" %}
+{% include "components/sectionslist_en.njk" %}
