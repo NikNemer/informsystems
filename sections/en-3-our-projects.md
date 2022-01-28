@@ -22,7 +22,6 @@ order: 4
 <li>Real-time GPS tracking systems</li>
 <li>Data Science for Mobility and Transport</li>
 </ul>
-<p>We are a participant of</p> 
 </div>
 </div>
 
