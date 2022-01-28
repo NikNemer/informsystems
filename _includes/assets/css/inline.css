@@ -121,8 +121,8 @@ header {
 .section3 .cliaboutus .cli-block .cli-block-text {font-size: 1.15em; line-height:1.5em;padding:30px;
 box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
 }
-.section3 .cliaboutus .cli-block .cli-block-author {padding:5px 0 0 30px;font-family: 'Raleway', sans-serif;text-transform: uppercase; font-size: 1.15em; line-heigh:1.5em;}
-.section3 .cliaboutus .cli-block .cli-block-comp {padding:5px 0 0 30px;}
+.section3 .cliaboutus .cli-block .cli-block-author {padding:30px 0 0 30px;font-family: 'Raleway', sans-serif;text-transform: uppercase; font-size: 1.15em; line-heigh:1.5em;}
+.section3 .cliaboutus .cli-block .cli-block-comp {padding:5px 0 0 30px;font-weight:bold;}
 .section3 .cliaboutus .cli-block .cli-block-dolg {padding:5px 0 0 30px;}
 
 .section4 { background-color:#F0F0F0;padding-bottom:4em !important; background-image: url("/static/img/lbg.png");background-position: 80% 100%;background-repeat: no-repeat;}
