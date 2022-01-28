@@ -8,50 +8,49 @@ order: 4
 <div class="content-block center">
 
 <div class="proj-block pb1">
-<div class="pb-title"><div class="pb-title-main">LOGISTICS AND TRANSPORT</div><div class="pb-title-sub">Over 20 projects</div></div>
+<div class="pb-title"><div class="pb-title-main">ЛОГИСТИКА И ТРАНСПОРТ</div><div class="pb-title-sub">Более 20 проектов</div></div>
 <div class="pb-pic"></div>
 <div class="pb-text">
-<p>We make logistics more intelligent to reduce unnecessary costs, make data-driven decisions.</p>
-<p>We innovate based on our deep understanding of the automotive industry and our proven solutions; there is no project that we could not master.</p>
-<p>We are experienced in solving the following tasks:</p>
+<p>Мы делаем логистику более интеллектуальной для сокращения ненужных расходов, принятия решений на основе данных.</p>
+<p>Мы внедряем инновации на основе нашего глубокого понимания автомобильной промышленности и с использованием наших проверенных решений; нет проекта, который мы не смогли бы осилить.</p>
+<p>Имеем опыт решения следующих задач:</p>
 <ul>
-<li>Digital cargo platform</li>
-<li>Development of an application for a courier service</li>
-<li>Integration of TMS and WMS functions via API</li>
-<li>Integration of 2PL/3PL operators with courier delivery services via API</li>
-<li>Real-time GPS tracking systems</li>
-<li>Data Science for Mobility and Transport</li>
+<li>Цифровая грузовая платформа</li>
+<li>Разработка приложения для курьерской службы</li>
+<li>Интеграция функций TMS и WMS через API</li>
+<li>Интеграция 2PL/3PL операторов с курьерскими службами доставки через API</li>
+<li>Системы GPS-слежения в реальном времени</li>
+<li>Анализ данных для транспорта</li>
 </ul>
 </div>
 </div>
 
 <div class="proj-block pb2">
-<div class="pb-title"><div class="pb-title-main">RETAIL</div><div class="pb-title-sub">Over 15 projects</div></div>
+<div class="pb-title"><div class="pb-title-main">РОЗНИЧНАЯ ТОРГОВЛЯ</div><div class="pb-title-sub">Более 15 проектов</div></div>
 <div class="pb-pic"></div>
-<div class="pb-text">
-<p>We create a new customer experience to increase loyalty, purchase frequency, and average order value. All these tasks are supported with innovative mobile applications and server solutions.</p>
-<p>We are experienced in solving the following tasks:</p>
+<div class="pb-text">Мы создаем новый опыт работы с клиентами, чтобы повысить лояльность, частоту покупок и среднюю стоимость заказа. Все это с помощью инновационных мобильных приложений и серверных решений.</p>
+<p>Имеем опыт решения следующих задач:</p>
 <ul>
-<li>Mobile application for loyalty programs</li>
-<li>Quality control management system</li>
-<li>Refinement and integration of ERP systems</li>
-<li>Website development for retail companies</li>
-<li>Personal workplace for communication with transport companies</li>
-<li>Order management system for freight companies</li>
+<li>Мобильное приложение для программ лояльности</li>
+<li>Система управления контролем качества</li>
+<li>Доработка и интеграция ERP-систем</li>
+<li>Разработка сайтов для розничных компаний</li>
+<li>Личное рабочее место для связи с транспортными компаниями</li>
+<li>Система управления заказами для грузовых компаний</li>
 </ul>
 </div>
 </div>
 
 <div class="proj-block pb3">
-<div class="pb-title"><div class="pb-title-main">AGRICULTURE</div><div class="pb-title-sub">Over 5 projects</div></div>
+<div class="pb-title"><div class="pb-title-main">СЕЛЬСКОЕ ХОЗЯЙСТВО</div><div class="pb-title-sub">Более 5 проектов</div></div>
 <div class="pb-pic"></div>
 <div class="pb-text">
-<p>We have extensive experience in the digitalization of supply chains in agriculture and food, as well as relevant experience related to:</p>
+<p>У нас есть большой опыт в цифровизации цепочек поставок в сельском хозяйстве и продовольствии, а также соответствующий опыт работы с:</p>
 <ul>
-<li>Applications for field reconnaissance</li>
-<li>Information analytics based on GIS</li>
-<li>Image recognition and processing</li>
-<li>Mobile applications for distribution companies</li>
+<li>Приложения для полевой разведки</li>
+<li>Информационная аналитика на основе ГИС</li>
+<li>Распознавание и обработка изображений</li>
+<li>Мобильные приложения для дистрибьюторских компаний</li>
 </ul>
 </div>
 </div>
