@@ -116,14 +116,14 @@ header {
 .section5 { text-align: center; }
 .section5 .content-block { background-color:#FFF;padding-bottom:4em !important;}
 
-.section3 .cliaboutus {text-align:center;vertical-align:top;}
+.section3 .cliaboutus {text-align:center;vertical-align:top;padding-bottom:3em;}
 .section3 .cliaboutus .cli-block {max-width:365px;display: inline-block;margin: 0 15px;vertical-align:top; text-align:left;}
 .section3 .cliaboutus .cli-block .cli-block-text {font-size: 1.15em; line-height:1.5em;padding:15px;
 box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
 }
-.section3 .cliaboutus .cli-block .cli-block-author {font-family: 'Raleway', sans-serif;text-transform: uppercase; font-size: 1.15em; line-heigh:1.5em;}
-.section3 .cliaboutus .cli-block .cli-block-comp {}
-.section3 .cliaboutus .cli-block .cli-block-dolg {}
+.section3 .cliaboutus .cli-block .cli-block-author {padding:5px 0 0 30px;font-family: 'Raleway', sans-serif;text-transform: uppercase; font-size: 1.15em; line-heigh:1.5em;}
+.section3 .cliaboutus .cli-block .cli-block-comp {padding:5px 0 0 30px;}
+.section3 .cliaboutus .cli-block .cli-block-dolg {padding:5px 0 0 30px;}
 
 .section4 { background-color:#F0F0F0;padding-bottom:4em !important; background-image: url("/static/img/lbg.png");background-position: 80% 100%;background-repeat: no-repeat;}
 .section4 .proj-block {display: inline-block;padding: 0 15px;vertical-align:top;width:500px;text-align:left; position:relative;}
