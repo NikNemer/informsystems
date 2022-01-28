@@ -5,4 +5,4 @@ order: 2
 ---
 <a id="about"></a>
 <div class="title-block center"><h2>О Нас</h2></div>
-<div class="text-block">Inform Systems is a Ukrainian software company with experience in logistics, retail, and agriculture. Our outstanding team is made of competent professionals who will skillfully help you implement and incorporate the best technologies into your company's strategy. We cooperate with partners around the world.</div>
+<div class="text-block">Inform Systems - украинская компания-разработчик программного обеспечения, имеющая опыт работы в области логистики, розничной торговли и сельского хозяйства. Наша замечательная команда состоит из компетентных профессионалов, которые умело помогут вам внедрить и включить лучшие технологии в стратегию вашей компании. Мы сотрудничаем с партнерами по всему миру.</div>
