@@ -119,7 +119,7 @@ header {
 .section3 .cliaboutus {text-align:center;vertical-align:top;}
 .section3 .cliaboutus .cli-block {max-width:365px;display: inline-block;margin: 0 15px;vertical-align:top; text-align:left;}
 .section3 .cliaboutus .cli-block .cli-block-text {font-size: 1.15em; line-height:1.5em;padding:15px;
-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
 }
 .section3 .cliaboutus .cli-block .cli-block-author {font-family: 'Raleway', sans-serif;text-transform: uppercase; font-size: 1.15em; line-heigh:1.5em;}
 .section3 .cliaboutus .cli-block .cli-block-comp {}
