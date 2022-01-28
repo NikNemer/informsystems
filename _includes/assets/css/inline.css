@@ -119,9 +119,9 @@ header {
 .section3 .cliaboutus {text-align:center;vertical-align:top;padding-bottom:3em;}
 .section3 .cliaboutus .cli-block {max-width:365px;display: inline-block;margin: 0 15px;vertical-align:top; text-align:left;}
 .section3 .cliaboutus .cli-block .cli-block-text {position:relative;font-size: 1.15em; line-height:1.5em;padding:30px 30px 30px 70px;
-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; font-style: italic;
 }
-.section3 .cliaboutus .cli-block .cli-block-text i {position:absolute;top:20px;left:20px;color:#ccc;}
+.section3 .cliaboutus .cli-block .cli-block-text i {position:absolute;top:20px;left:20px;color:#ccc;font-style: normal;}
 .section3 .cliaboutus .cli-block .cli-block-author {color:#666;padding:30px 0 0 70px;font-family: 'Raleway', sans-serif;text-transform: uppercase; font-size: 1.15em; line-heigh:1.5em;}
 .section3 .cliaboutus .cli-block .cli-block-comp {padding:5px 0 0 70px;font-weight:bold;}
 .section3 .cliaboutus .cli-block .cli-block-dolg {padding:5px 0 0 70px;}
