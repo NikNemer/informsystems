@@ -161,8 +161,13 @@ background-origin: initial;
 .serv .serv-title {font-size: 1.3em;font-weight:bold; line-height:1.5em; padding-bottom:1em;}
 .serv .serv-text {font-size: 1em; line-height:1.5em; padding-bottom:2em;}
 
-#sendform {max-width:600px;font-size:1em;line-height:1.5em; background-color:#ccc;margin:1em auto;padding: .25em .5em;
-	border-radius: .25em;}
+#sendform {    max-width: 600px;
+    font-size: 1em;
+    line-height: 1.5em;
+    background-color: #eee;
+    margin: 1em auto;
+    padding: .25em 2em;
+    border-radius: .5em;}
 
 .map-label { text-shadow: -1px -1px 0 #ffffff,1px -1px 0 #ffffff,-1px 1px 0 #ffffff,1px 1px 0 #ffffff; font-weight:bold; }
 
@@ -284,7 +289,7 @@ input,
 textarea,
 button {
   width: 100%;
-  padding: 1em;
+  padding: .8em;
   margin-bottom: 1em;
 	font-size: 1rem;
 	font-family: "Avenir", "Avenir Next", sans-serif;
@@ -292,12 +297,12 @@ button {
 
 input,
 textarea {
-	border: 1px solid black;
+	border: 0px solid black;
 }
 
 button {
-	border: 1px solid var(--primary);
-	background-color: var(--primary);
+	border: 0px solid var(--primary);
+	background-color: #e8194d;
 	color: var(--secondary);
 	cursor: pointer;
 }
