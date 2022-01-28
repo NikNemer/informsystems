@@ -20,7 +20,8 @@ order: 3
 </div>
 
 <div class="cli-block clb3">
-<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"We chose the Inform Systems team to develop our mobile loyalty app. We value our approach to work."&nbsbp;&nbsbp;&nbsbp;&nbsbp;&nbsbp;&nbsbp;&nbsbp;&nbsbp;&nbsbp;</div>
+<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"We chose the Inform Systems team to develop our mobile loyalty app. We value our approach to work."
+&nsbp;</div>
 <div class="cli-block-author">Bornik Pavlo</div>
 <div class="cli-block-comp">Trans-Allians</div>
 <div class="cli-block-dolg">Director</div>
