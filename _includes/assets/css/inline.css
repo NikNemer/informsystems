@@ -161,7 +161,7 @@ background-origin: initial;
 .serv .serv-title {font-size: 1.3em;font-weight:bold; line-height:1.5em; padding-bottom:1em;}
 .serv .serv-text {font-size: 1em; line-height:1.5em; padding-bottom:2em;}
 
-#sendform {max-width:600px;font-size:1em;line-height:1.5em; background-color:#ccc;}
+#sendform {max-width:600px;font-size:1em;line-height:1.5em; background-color:#ccc;margin:1em auto;}
 
 .map-label { text-shadow: -1px -1px 0 #ffffff,1px -1px 0 #ffffff,-1px 1px 0 #ffffff,1px 1px 0 #ffffff; font-weight:bold; }
 
