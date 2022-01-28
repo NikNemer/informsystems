@@ -47,6 +47,7 @@ main,
 footer {
 	padding: 0;
 }
+footer{text-align:center;}
 
 main {
 	padding-bottom: 2em;
