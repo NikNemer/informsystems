@@ -13,7 +13,7 @@ order: 3
 </div>
 
 <div class="cli-block clb2">
-<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"Основываясь на нашей совместной работе, я бы порекомендовала команду Inform Systems для мобильных и серверных проектов разработки программного обеспечения."</div>
+<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"Основываясь на нашей совместной работе, я бы порекомендовала команду Inform Systems для разработки мобильного и серверного ПО."</div>
 <div class="cli-block-author">Мария Кондратенко</div>
 <div class="cli-block-comp">Miratech</div>
 <div class="cli-block-dolg">Помощник руководителя</div>
