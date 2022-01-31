@@ -14,6 +14,7 @@ order: 6
 
 <p><b>Carnegie Center</b><br />
 7 Klovskyi Spusk Street, floor 30, Kyiv 02000, Ukraine</p>
+<p class="addrname"><b>+38 093 383-80-37</b><p>
 <p>&nbsp;</p>
 </div>
 <div class="map-block">
