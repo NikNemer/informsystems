@@ -4,11 +4,12 @@ language: ru
 order: 6
 ---
 <a id="contact"></a>
+
 <div class="title-block center"><h2>Контакты</h2></div>
 <div class="text-block center">
 
 <div class="addr">
-<div class="addrlogo inline"></div>
+<div class="addrlogo inline alru"></div>
 <div class="addrname inline">ООО "Информ Системы"<br /> Customer service &<br /> Marketing</div>
 </div>
 
