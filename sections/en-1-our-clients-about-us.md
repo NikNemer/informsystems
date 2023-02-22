@@ -13,7 +13,7 @@ order: 3
 </div>
 
 <div class="cli-block clb2">
-<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"Based on our collaboration, I would recommend this team for mobile and server software development projects."<br />
+<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"Based on our collaboration, I would recommend this company for mobile and server software development projects."<br />
 &nbsp;</div>
 <div class="cli-block-author">Maria Kondratenko</div>
 <div class="cli-block-comp">Miratech</div>
