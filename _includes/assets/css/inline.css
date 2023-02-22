@@ -146,6 +146,8 @@ background-origin: initial;
     -moz-background-size: cover;
     -o-background-size: cover; */
     overflow: hidden;}
+.addr .addrlogo .alru {background-image: url("/static/img/logo-is.png");}
+.addr .addrlogo .alen {background-image: url("/static/img/logo-ai.png");}
 .addr .addrname {font-family: 'Raleway', sans-serif;text-transform: uppercase; font-size: 1.15em; line-heigh:1.5em;text-align:left;}
 .pics-block .pic {display: inline-block;width:180px;padding: 0 15px;}
 .inline {display: inline-block;padding: 0 15px;vertical-align:middle;}
