@@ -8,6 +8,6 @@ eleventyNavigation:
   key: en
   order: 0
 ---
-<div class="center"><img src="/static/img/mainbg_adv.png"></div>
+<div class="center"><img src="/static/img/mainbg_adv.png" width="600px"></div>
 <div id="main-h2">Innovations Development and Implementation for the areas:</div>
 <div id="main-h1">Logistics, Retail and Agrifood</div>
