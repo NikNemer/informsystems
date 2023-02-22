@@ -20,8 +20,7 @@ order: 3
 </div>
 
 <div class="cli-block clb3">
-<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"Мы выбрали эту высоко профессиональную команду для разработки нашего мобильного приложения лояльности. Мы ценим поход к работе."<br />
-&nbsp;</div>
+<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"Мы выбрали эту высоко профессиональную команду для разработки нашего мобильного приложения лояльности. Мы ценим поход к работе."</div>
 <div class="cli-block-author">Павло Борник</div>
 <div class="cli-block-comp">Trans-Allians</div>
 <div class="cli-block-dolg">Директор</div>
