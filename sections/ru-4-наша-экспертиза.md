@@ -4,9 +4,10 @@ language: ru
 order: 5
 ---
 <a id="experts"></a>
-<div class="title-block center"><h2>Наша компетенция</h2></div>
+
+<div class="title-block center"><h2>Наша компетенція</h2></div>
 <div class="content-block">
-<div class="intro-block">Наши программисты все время совершенствуются и используют передовые технологии и платформы.<br />Мы работаем с ведущими протоколами защиты данных</div>
+<div class="intro-block">Наші програмісти постійно вдосконалюються та використовують передові технології та платформи.<br />Ми працюємо з провідними протоколами захисту даних</div>
 <div class="line-block top15em"></div>
 <div class="text-block">
 <h3>Back-end</h3>
