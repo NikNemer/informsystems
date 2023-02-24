@@ -6,21 +6,21 @@ order: 3
 <div class="cliaboutus">
 
 <div class="cli-block clb1">
-<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"Автоматизировав передачу данных, мы не только повысили точность процессов, но и высвободили время сотрудников для выполнения других задач."</div>
-<div class="cli-block-author">Андрей Акулич</div>
+<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"Автоматизувавши передачу даних, ми підвищили точність процесів, а й вивільнили час співробітників до виконання інших завдань."</div>
+<div class="cli-block-author">Андрій Акулич</div>
 <div class="cli-block-comp">Oxagile</div>
-<div class="cli-block-dolg">Программный менеджер</div>
+<div class="cli-block-dolg">Програмний менеджер</div>
 </div>
 
 <div class="cli-block clb2">
-<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"Основываясь на нашей совместной работе, я бы порекомендовала эту команду для разработки мобильного и серверного ПО."</div>
-<div class="cli-block-author">Мария Кондратенко</div>
+<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"Грунтуючись на нашій спільній роботі, я б порекомендувала цю команду для розробки мобільного та серверного ПЗ."</div>
+<div class="cli-block-author">Марія Кондратенко</div>
 <div class="cli-block-comp">Miratech</div>
-<div class="cli-block-dolg">Помощник руководителя</div>
+<div class="cli-block-dolg">Помічник керівника</div>
 </div>
 
 <div class="cli-block clb3">
-<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"Мы выбрали эту высоко профессиональную команду для разработки нашего мобильного приложения лояльности. Мы ценим поход к работе."</div>
+<div class="cli-block-text"><i class="fa fa-commenting-o fa-2x"></i>"Ми вибрали цю високо професійну команду для розробки нашої мобільної програми лояльності. Ми цінуємо похід на роботу."</div>
 <div class="cli-block-author">Павло Борник</div>
 <div class="cli-block-comp">Trans-Allians</div>
 <div class="cli-block-dolg">Директор</div>
