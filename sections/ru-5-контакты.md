@@ -5,16 +5,16 @@ order: 6
 ---
 <a id="contact"></a>
 
-<div class="title-block center"><h2>Контакты</h2></div>
+<div class="title-block center"><h2>Контакти</h2></div>
 <div class="text-block center">
 
 <div class="addr">
 <div class="addrlogo inline alru"></div>
-<div class="addrname inline">ООО "Информ Системы"<br /> Customer service &<br /> Marketing</div>
+<div class="addrname inline">ООО "Інформ Системи"<br /> Customer service &<br /> Marketing</div>
 </div>
 
-<p><b>Карнеги Центр</b><br />
-ул. Кловский спуск 7, этаж 30, Киев 02000, Украина</p>
+<p><b>Карнегі Центр</b><br />
+ул. Кловський спуск 7, поверх 30, Київ 02000, Україна</p>
 <p class=""><b>+38 093 383-80-37</b><p>
 <p>&nbsp;</p>
 </div>
