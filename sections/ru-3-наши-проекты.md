@@ -9,7 +9,7 @@ order: 4
 <div class="content-block center">
 
 <div class="proj-block pb1">
-<div class="pb-title"><div class="pb-title-main">ЛОГІСТИКА ТА ТРАНСПОРТ</div><div class="pb-title-sub">Более 20 проектов</div></div>
+<div class="pb-title"><div class="pb-title-main">ЛОГІСТИКА ТА ТРАНСПОРТ</div><div class="pb-title-sub">Понад 20 проектів</div></div>
 <div class="pb-pic"></div>
 <div class="pb-text">
 <p>Ми робимо логістику інтелектуальнішою для скорочення непотрібних витрат, прийняття рішень на основі даних.</p>
@@ -27,7 +27,7 @@ order: 4
 </div>
 
 <div class="proj-block pb2">
-<div class="pb-title"><div class="pb-title-main">РОЗДРІБНА ТОРГІВЛЯ</div><div class="pb-title-sub">Более 15 проектов</div></div>
+<div class="pb-title"><div class="pb-title-main">РОЗДРІБНА ТОРГІВЛЯ</div><div class="pb-title-sub">Понад 15 проектів</div></div>
 <div class="pb-pic"></div>
 <div class="pb-text">Ми створюємо новий досвід роботи з клієнтами, щоб підвищити лояльність, частоту покупок та середню вартість замовлення. Все це за допомогою інноваційних мобільних додатків та серверних рішень.</p>
 
@@ -44,7 +44,7 @@ order: 4
 </div>
 
 <div class="proj-block pb3">
-<div class="pb-title"><div class="pb-title-main">СІЛЬСЬКЕ ГОСПОДАРСТВО</div><div class="pb-title-sub">Более 5 проектов</div></div>
+<div class="pb-title"><div class="pb-title-main">СІЛЬСЬКЕ ГОСПОДАРСТВО</div><div class="pb-title-sub">Понад 5 проектів</div></div>
 <div class="pb-pic"></div>
 <div class="pb-text">
 <p>Ми маємо великий досвід у цифровізації ланцюжків поставок у сільському господарстві та продовольстві, а також відповідний досвід роботи з:</p>
