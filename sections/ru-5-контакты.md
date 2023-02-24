@@ -10,7 +10,7 @@ order: 6
 
 <div class="addr">
 <div class="addrlogo inline alru"></div>
-<div class="addrname inline">ООО "Інформ Системи"<br /> Customer service &<br /> Marketing</div>
+<div class="addrname inline">ТОВ "Інформ Системи"<br /> Customer service &<br /> Marketing</div>
 </div>
 
 <p><b>Карнегі Центр</b><br />
