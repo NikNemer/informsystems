@@ -1,7 +1,6 @@
 ---
 layout: layouts/home.njk
-title: "Innovations Development and Implementation for the areas: Logistics,
-  Retail and Agrifood"
+title: "Advance IT FZ LLC | Innovations Development and Implementation for Maximum IT Efficiency of Your Company"
 date: 2022-01-19T16:06:27.260Z
 permalink: /en/index.html
 eleventyNavigation:
