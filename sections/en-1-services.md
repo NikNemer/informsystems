@@ -11,8 +11,8 @@ order: 1
 
 <div class="serv">
 <div class="serv-icon"><i class="fa fa-line-chart fa-3x"></i></div>
-<div class="serv-title">Business analysis</div>
-<div class="serv-text">We create a clean, simple process with detailed descriptions, consult with our team of professionals during the development process, identify customer needs, collect business requirements and find solutions to their problems.</div>
+<div class="serv-title">IT Infrastructure Solutions</div>
+<div class="serv-text">We streamline the management of IT infrastructure by defining clear processes, consulting with our expert team, identifying client needs, gathering business requirements, and delivering tailored solutions to optimize performance and efficiency.</div>
 </div>
 
 <div class="serv">
@@ -23,7 +23,7 @@ order: 1
 
 <div class="serv">
 <div class="serv-icon"><i class="fa fa-television fa-3x"></i></div>
-<div class="serv-title">Web applications development </div>
+<div class="serv-title">Web applications development</div>
 <div class="serv-text">Our team can work on e-commerce projects by managing the back-end, improving the visual design, expanding the marketplace, and architecture and performance. Our web developers use a variety of coding platforms so we can find the right approach to update your products and increase customer retention.</div>
 </div>
 
